@@ -1,14 +1,26 @@
 #clock {
+    text-align: center;
 }
 
 #clock img {
+    position: absolute;
+    left: 35%;
+    bottom: 25%;
 }
 
 #hour {
+    position: relative;
+    top: 15%;
+
+
 }
 
 #minute {
+    position: relative;
+    top: 15%;
 }
 
 #second {
+    position: relative;
+    top: 15%;
 }
